@@ -1,0 +1,6 @@
+{
+  "name": "Ngobrol Di Kantor - Mystery & Horror Streaming Platform",
+  "description": "Platform streaming digital misteri, konspirasi, investigasi dark web, dan film horor premium berbalut tema cinematic dark neon green.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
